@@ -32,7 +32,7 @@ __Swire Coca-Cola__, Salt Lake City, Utah
 
 - Worked on ETL pipelines running data from SQL to Snowflake through Azure Synapse
 - Used SQL code to build databases and tables in DBT
-- Run queries on a large Snowflake database to transform data for executives
+- Ran queries on a large Snowflake database to transform data for executives
 
 
 ## Work History
@@ -46,14 +46,12 @@ __Front of house lead__, R&R Barbeque, Lehi, Utah
 
 ## Skills
 
-__Leadership__, Captain of traveling club soccer team for 9 years.
+__Leadership__, Captain of traveling club soccer team for 9 years
 
-__Probelm Solving__, Diagnosing engines and physical computer issues for a long time.
+__Probelm Solving__, Skilled at diagnosing engine problems and hardware issues
 
-__Critical Thinking__, Growing up having to assume everything on the internet was wrong without adequate supporting data.
+__Critical Thinking__, Grew up assuming everything on the internet is wrong without adequate supporting data
 
 <!-- ### Footer
-
-Last updated: May 2013 -->
 
 
